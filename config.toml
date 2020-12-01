@@ -1,5 +1,5 @@
 baseURL = "https://example.com"
-title = "Example Site"
+title = "Another Site"
 theme = "erblog"
 paginate = 3
 languageCode = "en"
@@ -8,11 +8,9 @@ enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 
 [params]
-    author = "Arham Awal Abiyan"
+    author = "Arham Abiyan"
     badge = "orange"
     quote = "red"
-    notice = "Hello, world. This is a notification."
-    notice_color = "red"
     index_posts_num = 5
     google_search = true
     # logo = "//blog.ertuil.top/avater.png"
@@ -36,17 +34,6 @@ footnoteReturnLinkContents = "^"
 #     url = "/zone/"
 #     weight = 10
 
-[[menu.footer]]
-    identifier = "home"
-    name = "home"
-    url = "/"
-    weight = 1
-
-[[menu.footer]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 2
 
 [taxonomies]
 category = "categories"

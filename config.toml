@@ -15,7 +15,7 @@ footnoteReturnLinkContents = "^"
     google_search = true
     # logo = "//blog.ertuil.top/avater.png"
     bio = """
-    <p> This is BIO. You can write something here. </p>
+    <p> Hello I'm Arham, Software Engineer based on Indonesia </p>
     <br />
     <p>Also all html tags such as <a href="https://github.com/ertuil/erblog">link</a> are a good here.</p>
     """

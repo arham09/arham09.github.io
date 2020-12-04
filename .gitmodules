@@ -1,3 +1,7 @@
 [submodule "themes/erblog"]
 	path = themes/erblog
 	url = https://github.com/ertuil/erblog
+[submodule "public"]
+	path = public
+	url = git@github.com:arham09/arham09.github.io.git
+	branch = main
